@@ -1,4 +1,7 @@
+jo
 egy új sor
+write one line
+
 Szia Timi, mizu?
 hi once again
 hello
